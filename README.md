@@ -1,6 +1,21 @@
 # Interactive Photo Gallery and Coding Challenges Overview 
 This project features an interactive photo gallery and solutions to two coding challenges. The gallery is built with HTML, CSS, and JavaScript, and the coding challenges are implemented in JavaScript.
 
+<!-- AUTHORS -->
+
+## Robert MUGABE , <a name="authors"></a>
+
+
+
+👤 **Robert MUGABE**
+
+- GitHub: [@githubhandle](https://github.com/mugabe-rob)
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/robert-mugabe-1548ba251/)
+
+
+
+
 ## Project Structure
 .
 ├── index.html
