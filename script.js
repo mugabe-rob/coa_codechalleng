@@ -1,27 +1,27 @@
 const dataCollection = [
     {
-        source: 'images/photos/india.png',
+        source: 'images/photos/1.png',
         alternative: 'india',
         hiddenDescription: 'FENNEC<br />FOX',
         extraDescription: 'India',
         link: 'https://www.thesprucepets.com/about-fennec-foxes-as-pets-1236778'
     },
     {
-        source: 'images/photos/south1.png',
+        source: 'images/photos/2.png',
         alternative: 'south-africa',
         hiddenDescription: 'HUMPBACK<br />WHALE',
         extraDescription: 'South Africa',
         link: 'https://www.nationalgeographic.com/animals/mammals/facts/humpback-whale'
     },
     {
-        source: 'images/photos/south2.png',
+        source: 'images/photos/3.png',
         alternative: 'south-africa',
         hiddenDescription: 'COMMON BROWN<br />BABOON',
         extraDescription: 'South Africa',
         link: 'https://www.nationalgeographic.com/animals/mammals/facts/baboons'
     },
     {
-        source: 'images/photos/amazon.png',
+        source: 'images/photos/4.png',
         alternative: 'amazon',
         hiddenDescription: 'SPOTTED<br />DEER',
         extraDescription: 'Amazon',
