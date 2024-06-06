@@ -52,8 +52,7 @@ function generateImageElement(data) {
     extraParagraph.textContent = data.extraDescription;
 
     const moreInfo = document.createElement('div');
-    moreInfo.className = 'know-more';
-    moreInfo.textContent = 'Know more';
+   
 
     const spanElement = document.createElement('span');
     const svgElement = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
