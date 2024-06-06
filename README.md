@@ -3,7 +3,7 @@ This project features an interactive photo gallery and solutions to two coding c
 
 <!-- AUTHORS -->
 
-## Robert MUGABE , <a name="authors"></a>
+## Author , <a name="authors"></a>
 
 
 
@@ -15,21 +15,6 @@ This project features an interactive photo gallery and solutions to two coding c
 
 
 
-
-## Project Structure
-.
-├── index.html
-├── style.css
-├── script.js
-└── challenges
-    ├── arrayMap.js
-    └── stringTransform.js
-    
-index.html: Main HTML structure.
-style.css: Styles for the gallery.
-script.js: JavaScript for dynamic gallery content.
-challenges/arrayMap.js: Solution for the contiguous subarray sum challenge.
-challenges/stringTransform.js: Solution for the string transformation challenge.
 
 ## Setup Instructions
 ## Clone the Repository
