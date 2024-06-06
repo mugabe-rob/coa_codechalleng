@@ -3,7 +3,7 @@ This project features an interactive photo gallery and solutions to two coding c
 
 <!-- AUTHORS -->
 
-## Author , <a name="authors"></a>
+## Author <a name="authors"></a>
 
 
 
