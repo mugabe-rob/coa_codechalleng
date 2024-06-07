@@ -22,6 +22,19 @@
 </p>
 <hr>
 
+## 📍 Overview
+
+COA_CODECHALLENG is an interactive photo gallery application designed to showcase images with additional hidden descriptions and links for more information. This project demonstrates proficiency in HTML, CSS, and JavaScript through the implementation of a responsive and dynamic user interface based on provided Figma designs.
+
+---
+
+## 📦 Features
+
+- **Interactive Photo Gallery**: Browse through a collection of images with hover effects revealing hidden descriptions.
+- **Responsive Design**: Ensures compatibility with different screen sizes and devices.
+- **Dynamic Content Loading**: Images and descriptions are loaded and displayed dynamically using JavaScript.
+- **External Links**: Each image includes a link to an external resource for additional information.
+
 ## 🔗 Quick Links
 
 > - [📍 Overview](#-overview)
@@ -165,10 +178,6 @@ npm test
 ## 🤝 Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
-
-- **[Submit Pull Requests](https://github.com/mugabe-rob/coa_codechalleng/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/mugabe-rob/coa_codechalleng/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/mugabe-rob/coa_codechalleng/issues)**: Submit bugs found or log feature requests for Coa_codechalleng.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
