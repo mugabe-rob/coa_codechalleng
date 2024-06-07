@@ -101,7 +101,7 @@
 
 Ensure you have the following dependencies installed on your system:
 
-* **JavaScript**: `version x.y.z`
+* **JavaScript**: `ECMAScript 2023 `
 
 ### ⚙️ Installation
 
@@ -151,7 +151,7 @@ npm test
 
 <!-- AUTHORS -->
 
-## 👥 Author , <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 
 
@@ -205,7 +205,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ---
 
 ## 👏 Acknowledgments
