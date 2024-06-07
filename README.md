@@ -22,17 +22,7 @@
 </p>
 <hr>
 
-## 📍 Overview
 
-COA_CODECHALLENG is an interactive photo gallery application designed to showcase images with additional hidden descriptions and links for more information. This project demonstrates proficiency in HTML, CSS, and JavaScript through the implementation of a responsive and dynamic user interface based on provided Figma designs.
-
----
-
-## 📦 Features
-
-- **Interactive Photo Gallery**: Browse through a collection of images with hover effects revealing hidden descriptions.
-- **Responsive Design**: Ensures compatibility with different screen sizes and devices.
-- **Dynamic Content Loading**: Images and descriptions are loaded and displayed dynamically using JavaScript.
 - **External Links**: Each image includes a link to an external resource for additional information.
 
 ## 🔗 Quick Links
@@ -54,13 +44,15 @@ COA_CODECHALLENG is an interactive photo gallery application designed to showcas
 
 ## 📍 Overview
 
-<code>► INSERT-TEXT-HERE</code>
+COA_CODECHALLENG is an interactive photo gallery application designed to showcase images with additional hidden descriptions and links for more information. This project demonstrates proficiency in HTML, CSS, and JavaScript through the implementation of a responsive and dynamic user interface based on provided Figma designs.
 
 ---
-
+---
 ## 📦 Features
 
-<code>► INSERT-TEXT-HERE</code>
+- **Interactive Photo Gallery**: Browse through a collection of images with hover effects revealing hidden descriptions.
+- **Responsive Design**: Ensures compatibility with different screen sizes and devices.
+- **Dynamic Content Loading**: Images and descriptions are loaded and displayed dynamically using JavaScript.
 
 ---
 
@@ -180,7 +172,7 @@ npm test
 Contributions are welcome! Here are several ways you can contribute:
 
 <details closed>
-    <summary>Contributing Guidelines</summary>
+    <summary>Click here to view the contributing Guidelines</summary>
 
 1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
