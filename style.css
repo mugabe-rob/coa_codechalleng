@@ -111,8 +111,7 @@ body {
         height: 50%;
     }
 
-    .hidden-text,
-    .additional-text {
-        display: none;
+    .image .know-more {
+        display: flex;
     }
 }
