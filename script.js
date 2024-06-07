@@ -4,7 +4,7 @@ const dataCollection = [
         alternative: 'india',
         hiddenDescription: 'FENNEC<br />FOX',
         extraDescription: 'India',
-        link: 'https://www.thesprucepets.com/about-fennec-foxes-as-pets-1236778'
+        link: 'https://en.wikipedia.org/wiki/Fennec_fox'
     },
     {
         source: 'images/photos/2.png',
@@ -18,14 +18,14 @@ const dataCollection = [
         alternative: 'south-africa',
         hiddenDescription: 'COMMON BROWN<br />BABOON',
         extraDescription: 'South Africa',
-        link: 'https://www.nationalgeographic.com/animals/mammals/facts/baboons'
+        link: 'https://en.wikipedia.org/wiki/Chacma_baboon#:~:text=The%20chacma%20baboon%20is%20generally,do%20not%20have%20a%20mane.'
     },
     {
         source: 'images/photos/4.png',
         alternative: 'amazon',
         hiddenDescription: 'SPOTTED<br />DEER',
         extraDescription: 'Amazon',
-        link: 'https://www.vedantu.com/animal/chital'
+        link: 'https://www.nathab.com/know-before-you-go/asia-the-pacific/india/wildlife-guide/spotted-deer/'
     }
 ];
 
