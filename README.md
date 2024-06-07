@@ -19,6 +19,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
 	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+
 </p>
 <hr>
 
@@ -34,7 +35,6 @@
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
 >   - [🤖 Running coa_codechalleng](#-running-coa_codechalleng)
->   - [🧪 Tests](#-tests)
 > - [🛠 Project Roadmap](#-project-roadmap)
 > - [🤝 Contributing](#-contributing)
 > - [📄 License](#-license)
@@ -44,10 +44,10 @@
 
 ## 📍 Overview
 
-COA_CODECHALLENG is an interactive photo gallery application designed to showcase images with additional hidden descriptions and links for more information. This project demonstrates proficiency in HTML, CSS, and JavaScript through the implementation of a responsive and dynamic user interface based on provided Figma designs.
+COA_CODECHALLENG is an interactive photo gallery application designed to showcase images with hovers and  descriptions when cliked on you see you get more information. This project demonstrates proficiency in HTML, CSS, and JavaScript through the implementation of a responsive and dynamic user interface based on provided Figma designs.
 
 ---
----
+
 ## 📦 Features
 
 - **Interactive Photo Gallery**: Browse through a collection of images with hover effects revealing hidden descriptions.
@@ -122,29 +122,16 @@ git clone https://github.com/mugabe-rob/coa_codechalleng
 cd coa_codechalleng
 ```
 
-3. Install the dependencies:
-
-```sh
-npm install
-```
 
 ### 🤖 Running coa_codechalleng
 
 Use the following command to run coa_codechalleng:
 
 ```sh
-node app.js
+node arrayMap.js
+node stringTransform.js
 ```
 
-### 🧪 Tests
-
-To execute tests, run:
-
-```sh
-npm test
-```
-
----
 
 ## 🛠 Project Roadmap
 
