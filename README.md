@@ -55,6 +55,9 @@
 
 ```sh
 └── coa_codechalleng/
+    ├── Challenges
+    │   ├── arrayMap.js
+    │   └── stringTransform.js
     ├── README.md
     ├── images
     │   └── photos
@@ -81,6 +84,15 @@
 
 </details>
 
+<details closed><summary>Challenges</summary>
+
+| File                                                                                                           | Summary                         |
+| ---                                                                                                            | ---                             |
+| [arrayMap.js](https://github.com/mugabe-rob/coa_codechalleng/blob/master/Challenges/arrayMap.js)               | <code>► INSERT-TEXT-HERE</code> |
+| [stringTransform.js](https://github.com/mugabe-rob/coa_codechalleng/blob/master/Challenges/stringTransform.js) | <code>► INSERT-TEXT-HERE</code> |
+
+</details>
+
 ---
 
 ## 🚀 Getting Started
@@ -89,7 +101,7 @@
 
 Ensure you have the following dependencies installed on your system:
 
-* **CSS**: `version x.y.z`
+* **JavaScript**: `version x.y.z`
 
 ### ⚙️ Installation
 
@@ -108,7 +120,7 @@ cd coa_codechalleng
 3. Install the dependencies:
 
 ```sh
-> INSERT-INSTALL-COMMANDS
+npm install
 ```
 
 ### 🤖 Running coa_codechalleng
@@ -116,7 +128,7 @@ cd coa_codechalleng
 Use the following command to run coa_codechalleng:
 
 ```sh
-> INSERT-RUN-COMMANDS
+node app.js
 ```
 
 ### 🧪 Tests
@@ -124,7 +136,7 @@ Use the following command to run coa_codechalleng:
 To execute tests, run:
 
 ```sh
-> INSERT-TEST-COMMANDS
+npm test
 ```
 
 ---
