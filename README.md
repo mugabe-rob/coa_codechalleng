@@ -151,7 +151,7 @@ npm test
 
 <!-- AUTHORS -->
 
-## 👥 Robert MUGABE , <a name="authors"></a>
+## 👥 Author , <a name="authors"></a>
 
 
 
@@ -199,10 +199,13 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ---
 
-## 📄 License
+<!-- LICENSE -->
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+## 📝 License <a name="license"></a>
 
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ---
 
 ## 👏 Acknowledgments
