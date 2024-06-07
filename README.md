@@ -149,6 +149,19 @@ npm test
 
 ---
 
+<!-- AUTHORS -->
+
+## 👥 Robert MUGABE , <a name="authors"></a>
+
+
+
+👤 **Robert MUGABE**
+
+- GitHub: [@githubhandle](https://github.com/mugabe-rob)
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/robert-mugabe-1548ba251/)
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
